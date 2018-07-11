@@ -8,10 +8,10 @@ In order to work properly:
 --vnc servers must be enabled on the pi.
 --vncviewer must be installed on the desktop.
 --you may need to set up some basic port-forwarding depending on how your
-particulat home network is configured.
+particular home network is configured.
 
 You will also need to modify the script with the following information,
-where indicated:
+where indicated in the script:
 
---your pi's password (Or the path to a file containing your password).
+--your pi's password (or the path to a file containing your password).
 --the IP address of your pi.
