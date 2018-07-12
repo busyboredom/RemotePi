@@ -1,5 +1,5 @@
 RemotePi is a simple bash script I wrote to remote desktop into my raspbery
-pi from my ubintu 16.04 desktop. 
+pi from my Ubuntu 16.04 (and now 18.04) desktop. 
 
 In order to work properly:
 
